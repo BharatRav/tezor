@@ -1,0 +1,35 @@
+{
+  "name": "tezor",
+  "version": "1.0.1",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "description": "A lightweight utility library by Bharat for reusable JavaScript and TypeScript functions.",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "keywords": [
+    "tezor",
+    "utilities",
+    "javascript",
+    "typescript",
+    "helpers",
+    "library"
+  ],
+  "author": "Bharat",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bharatrav/tezor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bharatrav/tezor/issues"
+  },
+  "homepage": "https://github.com/bharatrav/tezor#readme",
+  "engines": {
+    "node": ">=14"
+  }
+}
