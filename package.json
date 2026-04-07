@@ -1,6 +1,6 @@
 {
   "name": "tezor",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "description": "A lightweight utility library by Bharat for reusable JavaScript and TypeScript functions.",
