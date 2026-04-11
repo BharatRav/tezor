@@ -28,7 +28,7 @@
   "bugs": {
     "url": "https://github.com/bharatrav/tezor/issues"
   },
-  "homepage": "https://github.com/bharatrav/tezor#readme",
+  "homepage": "https://github.com/bharatrav/tezor#README",
   "engines": {
     "node": ">=14"
   },
