@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bharatrav/tezor/main/logo.png" alt="Tezor Logo" width="120" />
+  <img src="./src/assets/logo.png" alt="Tezor Logo" width="120" />
 </p>
 
 <h1 align="center">🚀 Tezor</h1>
