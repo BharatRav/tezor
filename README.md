@@ -1,6 +1,12 @@
-# 🚀 Tezor
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bharatrav/tezor/main/logo.png" alt="Tezor Logo" width="120" />
+</p>
 
-**Tezor** is a modern React utility library that provides reusable hooks, UI components, and smart utilities to speed up development.
+<h1 align="center">🚀 Tezor</h1>
+
+<p align="center">
+  A modern React utility library to build faster, cleaner, and smarter applications.
+</p>
 
 ---
 
@@ -16,22 +22,43 @@ Tezor helps you:
 
 ---
 
+## 🧩 Works With
+
+Tezor is designed to work seamlessly with:
+
+- ✅ JavaScript
+- ✅ TypeScript
+- ✅ React (18+)
+- ✅ Vite / Next.js / CRA
+
+> 💡 You can use Tezor in both JavaScript and TypeScript projects — types are included but not required.
+
+---
+
 ## 🔥 Features
 
-- 🧠 Smart Hooks
+### 🧠 Smart Hooks
 
-  - useZodValidation
-  - useSmartNavigation
+- `useZodValidation`
+- `useSmartNavigation`
 
-- 🎨 UI Components
+### 🎨 UI Components
 
-  - DoubleSidebar (Microsoft-style layout)
+- `DoubleSidebar` (Microsoft-style layout)
 
-- 🔐 Validation support (Zod)
+### 🔐 Validation
 
-- 🧭 Routing support (React Router)
+- Built-in support for Zod
 
-- 🎯 Works with Material UI
+### 🧭 Routing
+
+- Works with React Router
+
+### 🎯 UI Compatibility
+
+- Works with Material UI
+- Works with Tailwind CSS
+- Supports `className` for custom styling
 
 ---
 
@@ -81,9 +108,16 @@ import { DoubleSidebar } from "tezor";
 
 ---
 
+## 🎯 Goal
+
+Tezor aims to become a **developer-first utility + UI library**  
+that removes repetitive work and speeds up React development.
+
+---
+
 ## 👨‍💻 Author
 
-Bharat 🇮🇳
+**Bharat 🇮🇳**
 
 ---
 
