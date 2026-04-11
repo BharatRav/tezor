@@ -53,7 +53,7 @@ export function useFormValidation<T>({
     const result = schema.safeParse(formData);
 
     if (!result.success) {
-      (result.error as ZodError).errors.forEach((err) => {
+      result.error.issues.forEach((err: ZodError["issues"][number]) => {
         const path = err.path.join(".");
 
         if (excludedKeys.includes(path)) return;
