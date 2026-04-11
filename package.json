@@ -40,5 +40,8 @@
     "@types/react": "^18.3.28",
     "@types/react-dom": "^18.3.7",
     "typescript": "^6.0.0-dev.20260401"
+  },
+  "dependencies": {
+    "zod": "^4.3.6"
   }
 }
